@@ -1,0 +1,37 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+12
+'Bienvenido'
+4
+1
+55
+'señor usuario digite cuantos mililitros desea comprar'
+5
+1
+10
+mililitros
+6
+3
+8
+subtotal
+18
+mililitros  * 4500
+3
+iva
+15
+subtotal * 0.19
+5
+total
+14
+subtotal + iva
+4
+1
+82
+'señor usario su total a pagar con el IVA es de '    ,    total    ,   '  pesos  '
+1
